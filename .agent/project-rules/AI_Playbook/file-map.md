@@ -1,0 +1,30 @@
+# Playbook File Map
+
+- README.md - Human-facing explanation, concepts, and connection guide.
+- index.md - Central searchable map and dependency routing guide.
+- core/
+  - guidance.md - Base system instructions & review-first default rules.
+  - engineering-principles.md - Core architectural priorities (Correctness, Simplicity, Safety).
+  - communication-style.md - Ultra-concise, professional markdown style.
+  - decision-framework.md - Research-first and audit procedures.
+- skills/
+  - backend-review.md - Specialist backend audit principles.
+  - debugging.md - Standard systematic debugging protocol.
+  - architecture-thinking.md - Core structural architecture principles.
+  - ui-review.md - Premium UI design and CSS guidelines.
+- commands/
+  - grill-me.md - Plan validation checking edge cases.
+  - review-this.md - PR auditing checks for safety.
+  - think-deeper.md - Deep conceptual architectural scoping.
+  - simplify.md - Structural clean-up and refactoring instructions.
+- patterns/
+  - nextjs-structure.md - Modern Next.js application workspace layout.
+  - firebase-auth.md - Reference middleware for Firebase Auth sessions.
+  - api-design.md - Clean RESTful response and routing formats.
+- workflows/
+  - feature-planning.md - Requirements to design execution roadmap.
+  - bug-investigation.md - Diagnostics workflow for trace analysis.
+  - release-checklist.md - Deployment checklists and validations.
+- project-bootstrap/
+  - startup-checklist.md - Onboarding checklist for new projects.
+  - ai-loading-order.md - How local project loaders bootstrap the Playbook.
