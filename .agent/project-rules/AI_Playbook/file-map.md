@@ -28,6 +28,7 @@
   - feature-planning.md - Requirements to design execution roadmap.
   - bug-investigation.md - Diagnostics workflow for trace analysis.
   - release-checklist.md - Deployment checklists and validations.
+  - update-skills.md - Central skill synchronization SOP.
 - project-bootstrap/
   - startup-checklist.md - Onboarding checklist for new projects.
   - ai-loading-order.md - How local project loaders bootstrap the Playbook.

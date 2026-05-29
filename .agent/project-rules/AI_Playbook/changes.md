@@ -17,4 +17,6 @@
   - tdd/SKILL.md (vertical test-driven loops)
   - improve-architecture/SKILL.md (John Ousterhout Deep Modules refactoring)
   - handoff/SKILL.md (agent state handoff markdown format)
+- Created skill synchronization workflow (`workflows/update-skills.md`) and added automated "update skills" trigger in `core/guidance.md`.
+
 
