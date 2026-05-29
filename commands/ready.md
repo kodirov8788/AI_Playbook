@@ -4,6 +4,6 @@
 Invoked via `/ready` or `ready`.
 
 ## Actions
-1. Run `git status --short` to ensure working directory is clean.
-2. Read the latest `.agent/project-rules` context.
-3. Output exactly `Ready. Waiting command.` if clean.
+1. Validate active working tree and index status.
+2. Confirm there are no pending stashes or uncommitted changes.
+3. Output `Ready. Waiting command.` if clean.

@@ -4,6 +4,7 @@
 Invoked via `/commit` or `commit`.
 
 ## Actions
-1. Run `git status --short` to see staged files.
-2. Generate an extremely concise message (e.g., `fix auth redirect`, `sync maintain files`).
-3. Show the commit command and commit only after `y` gate.
+1. Review uncommitted changes and active staging buffers.
+2. Formulate a highly concise commit message (e.g. `sync maintain files`, `fix auth redirect`).
+3. Show changed files, diff status, and proposed message.
+4. Halt at the standard lowercase `y/n` approval gate before executing the Git commit.

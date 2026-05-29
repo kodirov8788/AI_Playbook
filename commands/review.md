@@ -4,7 +4,10 @@
 Invoked via `/review` or `review`.
 
 ## Actions
-1. Review all unstaged or modified files in detail.
-2. Build an ASCII BEFORE/AFTER representation for every affected code module or UI layout.
-3. Identify specific architecture, API, UI, or security risks.
-4. Output the full audit plan, then halt at the approval gate.
+1. Review current uncommitted changes or active diffs.
+2. Evaluate potential codebase risks, performance bottlenecks, or typing issues.
+3. Output details formatted exactly as:
+   - What changed: `<short description>`
+   - Impact: `<affected components>`
+   - Risks: `<low/med/high with technical detail>`
+   - Next: `<subsequent testing or validation step>`

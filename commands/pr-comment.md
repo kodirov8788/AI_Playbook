@@ -4,9 +4,6 @@
 Invoked via `/pr-comment` or `pr-comment`.
 
 ## Actions
-1. Format a clean PR review comment listing all pending items as checkbox markdown.
-2. Ensure format matches:
-   ```markdown
-   - [ ] Description of the todo goes here
-   ```
-3. Exclude conversational filler. Print only after `y` gate.
+1. Audit current working changes and active plan outcomes to compile a PR checklist.
+2. Build task blocks in exact markdown checkbox shape: `- [ ] todo`.
+3. Halt at the standard lowercase `y/n` approval gate before posting to GitHub PR.

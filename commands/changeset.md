@@ -4,13 +4,13 @@
 Invoked via `/changeset` or `changeset`.
 
 ## Actions
-1. Create a changeset file named `.changeset/0000-*.md`.
-2. Format exactly as:
+1. Map out active component changes to generate release notes.
+2. Structure the changeset in exact format:
    ```markdown
    ---
-   "<package>": patch|minor|major
+   "<pkg>": patch|minor|major
    ---
 
-   Description of the change.
+   One-line description of the change.
    ```
-3. Write to the filesystem only upon `y` approval.
+3. Halt at the standard lowercase `y/n` approval gate before saving to `.changeset/0000-*.md`.

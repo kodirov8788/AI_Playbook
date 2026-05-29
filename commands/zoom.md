@@ -4,10 +4,10 @@
 Invoked via `/zoom` or `zoom`.
 
 ## Actions
-1. Inspect saved `overview.md` and `session.md` data.
-2. Summarize:
-   - **Goal:** [Active project targets]
-   - **State:** [Completed tasks vs backlog]
-   - **Risk:** [Critical warnings]
-   - **Best Next:** [Next optimal steps]
-   - **Avoid:** [Patterns or files to avoid touching]
+1. Retrieve comprehensive strategic details about the current development cycle.
+2. Output details formatted exactly as:
+   - Goal: `<primary target of current sprint>`
+   - State: `<completed work and current blockades>`
+   - Risk: `<architectural or timeline risks>`
+   - Best next: `<optimal next technical move>`
+   - Avoid: `<bad paths or anti-patterns to steer clear of>`
