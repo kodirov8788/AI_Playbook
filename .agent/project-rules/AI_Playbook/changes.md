@@ -22,6 +22,9 @@
   - to-prd/SKILL.md (distill session to PRDs)
   - to-issues/SKILL.md (vertical task decomposition)
   - prototype/SKILL.md (throwaway MVP verification loops)
+- Created and registered all 14 repository operations command guides under `commands/` and registered them inside the dynamic loading router:
+  - init.md, status.md, review.md, diagnose.md, issues.md, pr-comment.md, maintain.md, changeset.md, commit.md, zoom.md, step.md, plan.md, remote.md, ready.md
+
 
 
 

@@ -23,6 +23,20 @@
   - review-this.md - PR auditing checks for safety.
   - think-deeper.md - Deep conceptual architectural scoping.
   - simplify.md - Structural clean-up and refactoring instructions.
+  - init.md - Setup dynamic context triggers.
+  - status.md - Status logging configuration.
+  - review.md - Plan and code diff review logic.
+  - diagnose.md - Compiler error trace logic.
+  - issues.md - GitHub issue creation automation.
+  - pr-comment.md - PR comment TODO checklist.
+  - maintain.md - Rule files synchronization logic.
+  - changeset.md - Changeset file creation blueprint.
+  - commit.md - Strict short git commits generation.
+  - zoom.md - Directional project context overview.
+  - step.md - Step-specific detail zooming interface.
+  - plan.md - Comprehensive project planning framework.
+  - remote.md - Remote tracking branches checks.
+  - ready.md - Working tree status verification.
 - patterns/
   - nextjs-structure.md - Modern Next.js application workspace layout.
   - firebase-auth.md - Reference middleware for Firebase Auth sessions.
