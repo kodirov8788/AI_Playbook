@@ -1,3 +1,8 @@
+---
+name: debugging
+description: Systematic root cause diagnostic workflow to isolate side effects, trace log boundaries, and analyze state mutations.
+---
+
 # Specialist Skill: Root Cause Debugging
 
 ## Protocol Sequence

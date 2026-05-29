@@ -1,3 +1,8 @@
+---
+name: ui-review
+description: Guidelines for high-end aesthetic reviews, responsive layout breakpoints, responsive typography scales, micro-animations, and CSS design variables.
+---
+
 # Specialist Skill: UI & Aesthetics Audit
 
 ## Visual Standards

@@ -1,3 +1,8 @@
+---
+name: architecture-thinking
+description: Directives for modular layout design, separation of concerns (SoC), strict compile-time typing, and dependency injection boundaries.
+---
+
 # Specialist Skill: Architectural Thinking
 
 ## Key Directives

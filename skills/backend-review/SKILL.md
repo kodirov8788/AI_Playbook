@@ -1,3 +1,8 @@
+---
+name: backend-review
+description: Vetted checkpoints for auditing backend schemas, transaction safety, validation rules, caching, and serialization pipelines.
+---
+
 # Specialist Skill: Backend Architecture Review
 
 ## Core Auditing Checkpoints

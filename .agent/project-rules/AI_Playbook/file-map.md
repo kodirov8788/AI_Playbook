@@ -8,10 +8,10 @@
   - communication-style.md - Ultra-concise, professional markdown style.
   - decision-framework.md - Research-first and audit procedures.
 - skills/
-  - backend-review.md - Specialist backend audit principles.
-  - debugging.md - Standard systematic debugging protocol.
-  - architecture-thinking.md - Core structural architecture principles.
-  - ui-review.md - Premium UI design and CSS guidelines.
+  - backend-review/SKILL.md - Specialist backend audit principles.
+  - debugging/SKILL.md - Standard systematic debugging protocol.
+  - architecture-thinking/SKILL.md - Core structural architecture principles.
+  - ui-review/SKILL.md - Premium UI design and CSS guidelines.
 - commands/
   - grill-me.md - Plan validation checking edge cases.
   - review-this.md - PR auditing checks for safety.
