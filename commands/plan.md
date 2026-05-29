@@ -4,6 +4,6 @@
 Invoked via `/plan` or `plan`.
 
 ## Actions
-1. Audit all dependencies and project constraints first.
-2. Build a full execution plan detailing steps, risk factors, and outstanding questions.
-3. Output the plan and halt at the universal `y/n` approval gate.
+1. Perform comprehensive research on the active request before proposing modifications.
+2. Build an implementation plan detailing every component-level change, risk level, and open questions.
+3. Show the detailed steps, outstanding questions, and halt at the standard lowercase `y/n` approval gate.

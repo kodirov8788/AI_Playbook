@@ -3,10 +3,11 @@
 ## Trigger
 Invoked via `/status` or `status`.
 
-## Output Shape
-Provide a structured status log:
-- **Branch:** [Active Branch]
-- **Changes:** [Staged/unstaged files]
-- **Remote:** [Ahead/behind counts, origin URL]
-- **Issues/PRs:** [List of active GitHub references]
-- **Next Action:** [Primary session goal]
+## Actions
+1. Audit current repository state.
+2. Output details formatted exactly as:
+   - Branch: `<current branch>`
+   - Changes: `<uncommitted diff details>`
+   - Remote: `<remote comparison ahead-behind status>`
+   - Issues / PRs: `<list active tracking assets>`
+   - Next: `<immediate strategic action item>`

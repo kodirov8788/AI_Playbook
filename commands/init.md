@@ -4,10 +4,7 @@
 Invoked via `/init` or `init`.
 
 ## Actions
-1. Detect project name using `basename $PWD`.
-2. Check for existing context folder `.agent/project-rules/<project-name>/`.
-3. Check for external changes since the last saved session using:
-   - `git status --short`
-   - `git diff`
-   - `git log --oneline -5`
-4. If changes exist, execute the changes review flow immediately before initializing.
+1. Load project context, repository guidelines, and `.agent` rule configurations.
+2. Check `git status`, diff log, and GitHub PR/issue tracking.
+3. Compare local tracking branches against remote state.
+4. Output `Ready. Waiting command.` if everything is clean and idle.

@@ -4,6 +4,7 @@
 Invoked via `/issues` or `issues`.
 
 ## Actions
-1. Package active planning points or task lists into separate feature issues.
-2. Format issue bodies with goals, vertical slicing lists, and test specifications.
-3. Show the proposed issues list, and execute `gh issue create` only after receiving explicit `y` approval.
+1. Scan codebase diagnostic reports or task plans to formulate standard GitHub issues.
+2. Compile descriptive issue titles and markdown body templates with complete bullet points.
+3. Show titles and bodies, then halt at the standard lowercase `y/n` approval gate.
+4. If approved with `y`, create issues on GitHub using the `gh` CLI tool.

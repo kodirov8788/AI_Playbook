@@ -8,34 +8,34 @@
   - communication-style.md - Ultra-concise, professional markdown style.
   - decision-framework.md - Research-first and audit procedures.
 - skills/
-  - backend-review/SKILL.md - Specialist backend audit principles.
-  - debugging/SKILL.md - Standard systematic debugging protocol.
-  - architecture-thinking/SKILL.md - Core structural architecture principles.
-  - ui-review/SKILL.md - Premium UI design and CSS guidelines.
-  - tdd/SKILL.md - Disciplined Test-Driven Development (TDD) workflow.
-  - improve-architecture/SKILL.md - Auditing codebase modules (Deep vs Shallow).
-  - handoff/SKILL.md - Structuring agent sessions context for handoff.
-  - to-prd/SKILL.md - Formatting conversations context into a PRD.
-  - to-issues/SKILL.md - Decomposing specifications into vertical developer issues.
-  - prototype/SKILL.md - Self-contained isolated prototype builder.
+  - type-error/SKILL.md - Specialist TS compilation debugging sequence.
+  - inference/SKILL.md - Implicit typing collapse diagnostics.
+  - generics/SKILL.md - Generic type mapping and constraint configurations.
+  - type-transform/SKILL.md - Derivation mappings using TS utility structures.
+  - union-map/SKILL.md - Discriminated union modeling and exhaustive narrowing checks.
+  - react-types/SKILL.md - functional components props, hooks, refs, and native events typing.
+  - any-audit/SKILL.md - Auditing codebase modules to eliminate any casting.
+  - api-shape/SKILL.md - Validating and synchronizing frontend DTOs with backend payloads.
+  - library-pattern/SKILL.md - Shared utilities architecture and decoupled package designs.
+  - docs-first/SKILL.md - External document facts validation checklist.
+  - exercise-mode/SKILL.md - Complex lessons progressive developer tutorializing guide.
+  - dx-review/SKILL.md - Code aesthetics and developer friction reviews.
 - commands/
-  - grill-me.md - Plan validation checking edge cases.
-  - review-this.md - PR auditing checks for safety.
-  - think-deeper.md - Deep conceptual architectural scoping.
-  - simplify.md - Structural clean-up and refactoring instructions.
-  - init.md - Setup dynamic context triggers.
-  - status.md - Status logging configuration.
-  - review.md - Plan and code diff review logic.
-  - diagnose.md - Compiler error trace logic.
-  - issues.md - GitHub issue creation automation.
-  - pr-comment.md - PR comment TODO checklist.
-  - maintain.md - Rule files synchronization logic.
-  - changeset.md - Changeset file creation blueprint.
-  - commit.md - Strict short git commits generation.
-  - zoom.md - Directional project context overview.
-  - step.md - Step-specific detail zooming interface.
-  - plan.md - Comprehensive project planning framework.
-  - remote.md - Remote tracking branches checks.
+  - init.md - Setup dynamic loading context triggers.
+  - status.md - Current branch and staging buffer diagnostics.
+  - review.md - Detailed uncommitted changes audit.
+  - diagnose.md - Compiler error trace analysis.
+  - grill.md - Architectural requirements challenging session.
+  - prototype.md - Isolation MVP sandboxing blueprint.
+  - issues.md - Auto-creating GitHub issues from sprint logs.
+  - pr-comment.md - PR checklist TODO generation block.
+  - maintain.md - Rules and memory synchronization trigger.
+  - changeset.md - Multi-package version release notes.
+  - commit.md - Strict concise git commits generation.
+  - zoom.md - Retrieve big-picture goals and tactical steps.
+  - step.md - Action item deep-diving interface.
+  - plan.md - Detailed action implementation plan builder.
+  - remote.md - Branch tracking branch difference metrics.
   - ready.md - Working tree status verification.
 - patterns/
   - nextjs-structure.md - Modern Next.js application workspace layout.

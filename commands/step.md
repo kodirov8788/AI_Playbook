@@ -1,10 +1,9 @@
-# Command: step <n>
+# Command: step
 
 ## Trigger
-Invoked via `/step <n>`, `show step <n>`, or `zoom in step <n>`.
+Invoked via `/step <n>` or `step <n>`.
 
 ## Actions
-1. Hide the entire action plan list.
-2. Zoom into step `<n>` and break it down into detailed sub-actions.
-3. Show affected files/resources, expected results, and step-specific risks.
-4. Present a dedicated, localized `n/y` gate for step `<n>` execution.
+1. Retrieve deep context on the specified step `n` from the active implementation plan.
+2. Formulate step instructions, dependencies, and targeted assets.
+3. Show complete details for step `n` and halt at the standard lowercase `y/n` approval gate.
