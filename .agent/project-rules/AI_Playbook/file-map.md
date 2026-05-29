@@ -15,6 +15,9 @@
   - tdd/SKILL.md - Disciplined Test-Driven Development (TDD) workflow.
   - improve-architecture/SKILL.md - Auditing codebase modules (Deep vs Shallow).
   - handoff/SKILL.md - Structuring agent sessions context for handoff.
+  - to-prd/SKILL.md - Formatting conversations context into a PRD.
+  - to-issues/SKILL.md - Decomposing specifications into vertical developer issues.
+  - prototype/SKILL.md - Self-contained isolated prototype builder.
 - commands/
   - grill-me.md - Plan validation checking edge cases.
   - review-this.md - PR auditing checks for safety.

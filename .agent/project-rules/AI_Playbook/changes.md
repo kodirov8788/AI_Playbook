@@ -18,5 +18,10 @@
   - improve-architecture/SKILL.md (John Ousterhout Deep Modules refactoring)
   - handoff/SKILL.md (agent state handoff markdown format)
 - Created skill synchronization workflow (`workflows/update-skills.md`) and added automated "update skills" trigger in `core/guidance.md`.
+- Created and registered new advanced engineering skills:
+  - to-prd/SKILL.md (distill session to PRDs)
+  - to-issues/SKILL.md (vertical task decomposition)
+  - prototype/SKILL.md (throwaway MVP verification loops)
+
 
 
