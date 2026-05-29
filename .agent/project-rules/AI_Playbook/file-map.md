@@ -12,6 +12,9 @@
   - debugging/SKILL.md - Standard systematic debugging protocol.
   - architecture-thinking/SKILL.md - Core structural architecture principles.
   - ui-review/SKILL.md - Premium UI design and CSS guidelines.
+  - tdd/SKILL.md - Disciplined Test-Driven Development (TDD) workflow.
+  - improve-architecture/SKILL.md - Auditing codebase modules (Deep vs Shallow).
+  - handoff/SKILL.md - Structuring agent sessions context for handoff.
 - commands/
   - grill-me.md - Plan validation checking edge cases.
   - review-this.md - PR auditing checks for safety.

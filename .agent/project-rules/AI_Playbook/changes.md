@@ -13,4 +13,8 @@
   - debugging/SKILL.md
   - architecture-thinking/SKILL.md
   - ui-review/SKILL.md
+- Created and registered new advanced agentic skills from mattpocock/skills:
+  - tdd/SKILL.md (vertical test-driven loops)
+  - improve-architecture/SKILL.md (John Ousterhout Deep Modules refactoring)
+  - handoff/SKILL.md (agent state handoff markdown format)
 
